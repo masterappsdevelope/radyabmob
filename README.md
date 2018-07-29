@@ -1,10 +1,9 @@
-# allappslockfingerprint
-com.arnanway.camerafigurvoice
-ژست حرفه ای
-
+# com_arnaway_mobilegptracker
+com_arnaway_mobilegptracker
+ردیاب گوشی از دور بدون اینترنت
 ## Privacy Policy
 
-MasterAppDeveloper built the com.arnanway.camerafigurvoice as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
+MasterAppDeveloper built the com_arnaway_mobilegptracker as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
