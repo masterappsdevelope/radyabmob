@@ -1,10 +1,10 @@
 # allappslockfingerprint
-ir.arna.finger.allapplock
-قفل برنامه ها،اثر انگشتی و لمسی
-Privacy Policy of ir.arna.finger.allapplock
+com.arnanway.camerafigurvoice
+ژست حرفه ای
+
 ## Privacy Policy
 
-MasterAppDeveloper built the fingerprint applocker as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
+MasterAppDeveloper built the com.arnanway.camerafigurvoice as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
